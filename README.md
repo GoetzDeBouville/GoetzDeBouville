@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##
 
-<p align="center"><a href="https://goetzdebouville.github.io/GoetzDeBouville/"><img width="80%" alt="Hello, I'm Alexey, android developer/freelancer/digital nomad 🧭" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://goetzdebouville.github.io/GoetzDeBouville/"><img width="80%" alt="Hello, I'm Alexey, android developer/freelancer/digital nomad 🧭" src="./assets/header_text.png" /></a></p>
 
 <br />
 
