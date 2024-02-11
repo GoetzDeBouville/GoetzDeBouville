@@ -3,11 +3,10 @@
 
 <p align="center"><a href="https://goetzdebouville.github.io/GoetzDeBouville/"><img width="80%" alt="Hello, I'm Alexey, android developer/freelancer/digital nomad 🧭" src="./assets/header_text.png" /></a></p>
 
-<br />
 
-- ❤️ I love writing for Android with Kotlin
+### ❤️ I love writing for Android with Kotlin
 
-- 💬 Ask me about anything here:
+### 💬 Ask me about anything here:
 - LinkedIn: [https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/](https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/)
 - Facebook: [https://www.facebook.com/double.conscience](https://www.facebook.com/double.conscience)
 - Telegram: [@Heoderer](https://t.me/heoderer)
