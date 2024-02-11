@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoetzDeBouville&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=30" alt="GoetzDeBouville" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzDeBouville&size_weight=0.5&count_weight=0.5" alt="GoetzDeBouville" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzDeBouville&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="GoetzDeBouville" /></p>
