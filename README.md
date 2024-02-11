@@ -11,21 +11,19 @@
 - Facebook: [https://www.facebook.com/double.conscience](https://www.facebook.com/double.conscience)
 - Telegram: [@Heoderer](https://t.me/heoderer)
 
-### My YouTube chanel: [https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg](https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg)
+### My YouTube chanel
 
+<a href="https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="GoetzDeBouville" height="30" width="40" /></a>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### Connect with me:
 
-<br />
-<br />
+<p align="left">
+<a href="https://www.facebook.com/double.conscience" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="GoetzDeBouville" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GoetzDeBouville" height="30" width="40" /></a>
+<a href="https://t.me/heoderer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="GoetzDeBouville" height="30" width="40" /></a>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+### Languages and Tools
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisbanes&show_icons=true&locale=en" alt="chrisbanes" /></p>
