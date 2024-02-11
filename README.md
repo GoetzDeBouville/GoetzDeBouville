@@ -18,7 +18,7 @@
 </p>
 
 ### My YouTube chanel
-<a href="https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/facebook_ic.png" /></a>
+<a href="https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/youtube_ic.png" /></a>
 
 ### Languages and Tools
 
