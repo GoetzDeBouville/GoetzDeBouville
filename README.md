@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/double.conscience"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/facebook_ic.png" /></a>
 </p>
 
-### My YouTube chanel
+### Screencasts of my projects on YouTube:
 <a href="https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/youtube_ic.png" /></a>
 
 ### Languages and Tools
