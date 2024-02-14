@@ -1,6 +1,6 @@
 <p align="center"><a href="https://goetzdebouville.github.io/GoetzDeBouville/"><img width="80%" alt="Hello, I'm Alexey, android developer/freelancer/digital nomad 🧭" src="./assets/header_text.png" /></a></p>
 
-### Contact with me:
+### Contact me:
 
 <p align="left">
 
