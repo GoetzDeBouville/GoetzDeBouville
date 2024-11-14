@@ -5,7 +5,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/" target="blank"><img height="40" width="40" align="center" src="./assets/linkedin_ic.png" alt="aleksey-zinchenko-9b3760252" /></a>
-<a href="https://t.me/heoderer" target="blank"><img height="40" width="40" align="center" src="./assets/tg_ic.webp" alt="heoderer" /></a>
 <a href="https://www.facebook.com/double.conscience"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/facebook_ic.png" /></a>
 </p>
 
