@@ -8,9 +8,6 @@
 <a href="https://www.facebook.com/double.conscience"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/facebook_ic.png" /></a>
 </p>
 
-### Screencasts of my projects on YouTube:
-<a href="https://www.youtube.com/channel/UCA7m1QrtIv8pFu_IbI9SPVg"><img height="40" width="40" align="center" alt="GoetzDeBouville" src="./assets/youtube_ic.png" /></a>
-
 ### Languages and Tools
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzDeBouville&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&border_radius=30&bg_color=30,43e964,43c8e9&title_color=4b3a3e&text_color=585657&icon_color=ee2350" alt="GoetzDeBouville" /></p>
